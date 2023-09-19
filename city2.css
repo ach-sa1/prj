@@ -1,0 +1,747 @@
+@media(max-width: 400em){
+  .main-nav-list{
+    padding-right: 5rem;
+    font-size: 4rem;
+    padding-top: 4rem;
+  }
+  h3{
+    font-size: 4.4rem;
+    padding-left: 7rem;
+    padding-top: 5rem;
+  }
+  h4{
+    font-size: 9rem;
+    padding-top: 3rem;
+  }
+  h1{
+    font-size: 13rem;
+  }
+  p{
+    font-size: 7rem;
+    color: rgb(12, 26, 3);
+  }
+  section{
+padding-left: 18rem;
+  }
+  .rorem{
+    margin-bottom: 3rem;
+  }
+  .buttom{
+    font-size: 4rem;`
+    padding: 2rem 0 2rem 9rem; 
+    margin-right: 260rem;
+  }
+}
+@media(max-width: 350em){
+  .main-nav-list{
+    padding-right: 5rem;
+    font-size: 4rem;
+    padding-top: 4rem;
+  }
+  h3{
+    font-size: 4.4rem;
+    padding-left: 7rem;
+    padding-top: 5rem;
+  }
+  h4{
+    font-size: 7rem;
+    padding-top: 3rem;
+  }
+  h1{
+    font-size: 13rem;
+  }
+  p{
+    font-size: 5rem;
+    color: rgb(12, 26, 3);
+  }
+  section{
+padding-left: 18rem;
+  }
+  .rorem{
+    margin-bottom: 3rem;
+  }
+  .buttom{
+    font-size: 4rem;
+    padding: 2rem 0 2rem 7rem; 
+    margin-right: 300rem;
+  }
+}
+@media(max-width: 300em){
+  .main-nav-list{
+    padding-right: 5rem;
+    font-size: 4rem;
+    padding-top: 4rem;
+  }
+  h3{
+    font-size: 4.4rem;
+    padding-left: 7rem;
+    padding-top: 5rem;
+  }
+  h4{
+    font-size: 9rem;
+    padding-top: 3rem;
+  }
+  h1{
+    font-size: 13rem;
+  }
+  p{
+    font-size: 6rem;
+    color: rgb(12, 26, 3);
+  }
+  section{
+padding-left: 18rem;
+  }
+  .rorem{
+    margin-bottom: 3rem;
+  }
+  .buttom{
+    font-size: 4rem;
+    padding: 2rem 0 2rem 9rem; 
+    margin-right: 242rem;
+  }
+}
+@media(max-width: 250em){
+  .main-nav-list{
+    padding-right: 5rem;
+    font-size: 4rem;
+    padding-top: 4rem;
+  }
+  h3{
+    font-size: 4.4rem;
+    padding-left: 7rem;
+    padding-top: 5rem;
+  }
+  h4{
+    font-size: 7rem;
+    padding-top: 3rem;
+  }
+  h1{
+    font-size: 11rem;
+  }
+  p{
+    font-size: 4rem;
+    color: rgb(12, 26, 3);
+  }
+  section{
+padding-left: 18rem;
+  }
+  .rorem{
+    margin-bottom: 3rem;
+  }
+  .buttom{
+    font-size: 4rem;
+    padding: 2rem 1rem 2rem 7rem; 
+    margin-right: 200rem;
+  }
+}
+@media(max-width: 200em){
+  .main-nav-list{
+    padding-right: 5rem;
+    font-size: 3rem;
+    padding-top: 4rem;
+  }
+  h3{
+    font-size: 3.2rem;
+    padding-left: 7rem;
+    padding-top: 5rem;
+  }
+  h4{
+    font-size: 4rem;
+    padding-top: 3rem;
+  }
+  h1{
+    font-size: 9rem;
+  }
+  p{
+    font-size: 3rem;
+    color: rgb(12, 26, 3);
+  }
+  section{
+padding-left: 18rem;
+  }
+  .rorem{
+    margin-bottom: 3rem;
+  }
+  .buttom{
+    font-size: 3rem;
+    padding: 1.5rem 0 1.5rem 6rem; 
+    margin-right: 155rem;
+  }
+}
+@media(max-width: 150em){
+  .main-nav-list{
+    padding-right: 5rem;
+    font-size: 2.4rem;
+    padding-top: 4rem;
+  }
+  h3{
+    font-size: 3rem;
+    padding-left: 7rem;
+    padding-top: 5rem;
+  }
+  h4{
+    font-size: 3.2rem;
+    padding-top: 3rem;
+  }
+  h1{
+    font-size: 6rem;
+  }
+  p{
+    font-size: 2.6rem;
+    color: rgb(12, 26, 3);
+  }
+  section{
+padding-left: 18rem;
+  }
+  .rorem{
+    margin-bottom: 3rem;
+  }
+  .buttom{
+    font-size: 2.5rem;
+    padding: 1.5rem 0 1.5rem 3rem; 
+    margin-right: 114rem;
+  }
+}
+@media(max-width: 100em){
+  .main-nav-list{
+    padding-right: 2.1rem;
+    font-size: 0.9rem;
+    padding-top: 2.6rem;
+  }
+  h3{
+    font-size: 2rem;
+    padding-left: 5rem;
+    padding-top: 2.6rem;
+  }
+  h4{
+    font-size: 2rem;
+    padding-top: 2rem;
+  }
+  h1{
+    font-size: 3rem;
+  }
+  p{
+    font-size: 1.5rem;
+    color: rgb(12, 26, 3);
+  }
+  section{
+padding-left: 10rem;
+  }
+  .rorem{
+    margin-bottom: 2rem;
+  }
+  .buttom{
+    font-size: 1rem;
+    padding: 0.8rem 0 0.6em 2rem; 
+    margin-right: 80rem;
+  }
+}
+@media(max-width: 95em){
+  .main-nav-list{
+    padding-right: 1.8rem;
+    font-size: 0.7rem;
+    padding-top: 2rem;
+  }
+  h3{
+    font-size: 1.5rem;
+    padding-left: 4rem;
+    padding-top: 2rem;
+  }
+  h4{
+    font-size: 1rem;
+    padding-top: 1rem;
+  }
+  h1{
+    font-size: 2rem;
+  }
+  p{
+    font-size: 1rem;
+    color: rgb(12, 26, 3);
+  }
+  section{
+padding-left: 8rem;
+  }
+  .rorem{
+    margin-bottom: 1rem;
+  }
+  .buttom{
+    font-size: 0.8rem;
+    padding: 0.6rem 0 0.4rem 1.5rem; 
+    margin-right: 80rem;
+  }
+}
+@media(max-width: 90em){
+  .main-nav-list{
+    padding-right: 1.9rem;
+    font-size: 0.6rem;
+    padding-top: 1.9rem;
+  }
+  h3{
+    font-size: 1.3rem;
+    padding-left: 1.7rem;
+    padding-top: 1.9rem;
+  }
+  h4{
+    font-size: 1rem;
+    padding-top: 2rem;
+  }
+  h1{
+    font-size: 2rem;
+  }
+  p{
+    font-size: 0.9rem;
+    color: rgb(12, 26, 3);
+  }
+  section{
+padding-left: 5rem;
+  }
+  .rorem{
+    margin-bottom: 1.6rem;
+  }
+  .buttom{
+    font-size: 1rem;
+    padding: 0.2rem 0 0.4rem 1rem; 
+    margin-right: 77rem;
+  }
+}
+@media(max-width: 85em){
+  .main-nav-list{
+    padding-right: 1.5rem;
+    font-size: 1rem;
+    padding-top: 2rem;
+  }
+  h3{
+    font-size: 1.2rem;
+    padding-left: 1.3rem;
+    padding-top: 1rem;
+  }
+  h4{
+    font-size: 1rem;
+    padding-top: 0;
+  }
+  h1{
+    font-size: 1.6rem;
+  }
+  p{
+    font-size: 0.9rem;
+    color: rgb(12, 26, 3);
+  }
+  section{
+padding-left: 5rem;
+  }
+  .rorem{
+    margin-bottom: 1rem;
+  }
+  .buttom{
+    font-size: 1rem;
+    padding: 0.2rem 0 0.4rem 1.5rem; 
+    margin-right: 72rem;
+  }
+ 
+}
+@media(max-width: 83em){
+  .buttom{
+    font-size: 1rem;
+    padding: 0.2rem 0 0.4rem 1.5rem; 
+    margin-right: 72rem;
+  }
+ 
+}
+@media(max-width: 82em){
+  .buttom{
+    font-size: 1rem;
+    padding: 0.2rem 0 0.4rem 1.5rem; 
+    margin-right: 72rem;
+  }
+ 
+}
+
+@media(max-width: 80em){
+  .main-nav-list{
+    padding-right: 1.5rem;
+    font-size: 0.9rem;
+    padding-top: 1.5rem;
+  }
+  h3{
+    font-size: 1rem;
+    padding-left: 1.5rem;
+    padding-top: 1.5rem;
+  }
+  h4{
+    font-size: 1rem;
+    padding-top: 0;
+  }
+  h1{
+    font-size: 1.4rem;
+  }
+  p{
+    font-size: 0.9rem;
+    color: rgb(12, 26, 3);
+  }
+  section{
+padding-left: 5rem;
+  }
+  .rorem{
+    margin-bottom: 0.9rem;
+  }
+  .buttom{
+    font-size: 0.7rem;
+    padding: 0.2rem 0 0.4rem 1rem; 
+    margin-right: 70rem;
+  }
+}
+@media(max-width: 79em){
+  .buttom{
+    font-size: 1rem;
+    padding: 0.2rem 0 0.4rem 1.5rem; 
+    margin-right: 72rem;
+  }
+ 
+}
+@media(max-width: 78em){
+  .buttom{
+    font-size: 1rem;
+    padding: 0.2rem 0 0.4rem 1.5rem; 
+    margin-right: 72rem;
+  }
+ 
+}
+
+@media(max-width: 75em){
+  .main-nav-list{
+    padding-right: 1.3rem;
+    font-size: 0.9rem;
+    padding-top: 1.3rem;
+  }
+  h3{
+    font-size: 1;
+    padding-left: 1.3rem;
+    padding-top: 1.3rem;
+  }
+  h4{
+    font-size: 0.9rem;
+    padding-top: 0;
+  }
+  h1{
+    font-size: 1.4rem;
+  }
+  p{
+    font-size: 0.9rem;
+    color: rgb(12, 26, 3);
+  }
+  section{
+padding-left: 4rem;
+  }
+  .rorem{
+    margin-bottom: 3rem;
+  }
+  .buttom{
+    font-size: 0.8rem;
+    padding: 0.2rem 0 0.4rem 1rem; 
+    margin-right: 65rem;
+  }
+}
+@media(max-width: 74em){
+  .buttom{
+    font-size: 1rem;
+    padding: 0.2rem 0 0.4rem 1.5rem; 
+    margin-right: 72rem;
+  }
+ 
+}
+@media(max-width: 71em){
+  .buttom{
+    font-size: 1rem;
+    padding: 0.2rem 0 0.4rem 1.5rem; 
+    margin-right: 72rem;
+  }
+ 
+}
+@media(max-width: 70em){
+  .main-nav-list{
+    padding-right: 1.4rem;
+    font-size: 1rem;
+    padding-top: 1.4rem;
+  }
+  h3{
+    font-size: 1.1rem;
+    padding-left: 1.4rem;
+    padding-top: 1.4rem;
+  }
+  h4{
+    font-size: 1rem;
+    padding-top: 0;
+  }
+  h1{
+    font-size: 1.4rem;
+  }
+  p{
+    font-size: 0.9rem;
+    color: rgb(12, 26, 3);
+  }
+  section{
+padding-left: 5rem;
+  }
+  .rorem{
+    margin-bottom: 2rem;
+  }
+  .buttom{
+    font-size: 0.7rem;
+    padding: 0.2rem 0 0.4rem 1rem; 
+    margin-right: 60rem;
+  }
+}
+@media(max-width: 69em){
+  .buttom{
+    font-size: 1rem;
+    padding: 0.2rem 0 0.4rem 1.5rem; 
+    margin-right: 72rem;
+  }
+ 
+}
+ @media(max-width: 68em){
+  .buttom{
+    font-size: 1rem;
+    padding: 0.2rem 0 0.4rem 1.5rem; 
+    margin-right: 70rem;
+  }
+ 
+} 
+@media(max-width: 65em){
+  .main-nav-list{
+    padding-right: 1.4rem;
+    font-size: 1rem;
+    padding-top: 1.4rem;
+  }
+  h3{
+    font-size: 1rem;
+    padding-left: 1.4rem;
+    padding-top: 1.4rem;
+  }
+  h4{
+    font-size: 0.9rem;
+    padding-top: 0;
+  }
+  h1{
+    font-size: 1.3rem;
+  }
+  p{
+    font-size: 0.8rem;
+    color: rgb(12, 26, 3);
+  }
+  section{
+padding-left: 5rem;
+  }
+  .rorem{
+    margin-bottom: 3rem;
+  }
+  .buttom{
+    font-size: 0.7rem;
+    padding: 0.2rem 0 0.4rem 1.1rem; 
+    margin-right: 54rem;
+  }
+}
+@media(max-width: 64em){
+  .buttom{
+    font-size: 1rem;
+    padding: 0.2rem 0 0.4rem 1.5rem; 
+    margin-right: 72rem;
+  }
+ 
+} @media(max-width: 62em){
+  .buttom{
+    font-size: 1rem;
+    padding: 0.2rem 0 0.4rem 1.5rem; 
+    margin-right: 72rem;
+  }
+ 
+} 
+@media(max-width: 60em){
+  .main-nav-list{
+    padding-right: 1.3rem;
+    font-size: 1rem;
+    padding-top: 1.3rem;
+  }
+  body{
+    background-image: linear-gradient( to right bottom, rgba(54, 37, 22, 0.35), rgba(66, 38, 14, 0.35)), url("../proj1/hero.jpg");
+    background-size: cover;
+     /* background-position: center;  */
+    }
+  h3{
+    font-size: 1rem;
+    padding-left: 1.3rem;
+    padding-top: 1.3rem;
+  }
+  h4{
+    font-size: 0.9rem;
+    padding-top: 0;
+  }
+  h1{
+    font-size: 1.4rem;
+  }
+  p{
+    font-size: 0.8rem;
+    color: rgb(12, 26, 3);
+  }
+  section{
+padding-left: 5rem;
+  }
+  .rorem{
+    margin-bottom: 3rem;
+  }
+  .buttom{
+    font-size: 0.8rem;
+    padding: 0.2rem 0 0.4rem 1rem; 
+    margin-right: 49rem;
+  }
+}
+@media(max-width: 58em){
+  .buttom{
+    font-size: 1rem;
+    padding: 0.2rem 0 0.4rem 1.5rem; 
+    margin-right: 72rem;
+  }
+ 
+}
+@media(max-width: 57em){
+  .main-nav-list{
+    padding-right: 1.3rem;
+    font-size: 1rem;
+    padding-top: 1.3rem;
+  }
+  body{
+    background-image: linear-gradient( to right bottom, rgba(54, 37, 22, 0.35), rgba(66, 38, 14, 0.35)), url("../proj1/hero.jpg");
+    background-size: cover;
+     /* background-position: center;  */
+    }
+  h3{
+    font-size: 1rem;
+    padding-left: 1.3rem;
+    padding-top: 1.3rem;
+  }
+  h4{
+    font-size: 0.9rem;
+    padding-top: 0;
+  }
+  h1{
+    font-size: 1.4rem;
+  }
+  p{
+    font-size: 0.8rem;
+    color: rgb(12, 26, 3);
+  }
+  section{
+padding-left: 5rem;
+  }
+  .rorem{
+    margin-bottom: 3rem;
+  }
+  .buttom{
+    font-size: 0.8rem;
+    padding: 0.2rem 0 0.4rem 1rem; 
+    margin-right: 46rem;
+  }
+}
+@media(max-width: 55em){
+  .buttom{
+    font-size: 1rem;
+    padding: 0.2rem 0 0.4rem 1.5rem; 
+    margin-right: 72rem;
+  }
+ 
+}
+@media(max-width: 53em){
+  .buttom{
+    font-size: 1rem;
+    padding: 0.2rem 0 0.4rem 1.5rem; 
+    margin-right: 72rem;
+  }
+ 
+}
+ @media(max-width: 52em){
+  .buttom{
+    font-size: 1rem;
+    padding: 0.2rem 0 0.4rem 1.5rem; 
+    margin-right: 72rem;
+  }
+ 
+}
+@media(max-width: 50em){
+  .main-nav-list{
+    padding-right: 1.3rem;
+    font-size: 1rem;
+    padding-top: 1.3rem;
+  }
+  body{
+    background-image: linear-gradient( to right bottom, rgba(54, 37, 22, 0.35), rgba(66, 38, 14, 0.35)), url("../proj1/hero.jpg");
+    background-size: cover;
+     /* background-position: center;  */
+    }
+  h3{
+    font-size: 1rem;
+    padding-left: 1.3rem;
+    padding-top: 1.3rem;
+  }
+  h4{
+    font-size: 0.9rem;
+    padding-top: 0;
+  }
+  h1{
+    font-size: 1.4rem;
+  }
+  p{
+    font-size: 0.8rem;
+    color: rgb(12, 26, 3);
+  }
+  section{
+padding-left: 5rem;
+  }
+  .rorem{
+    margin-bottom: 3rem;
+  }
+  .buttom{
+    font-size: 0.8rem;
+    padding: 0.2rem 0 0.4rem 1rem; 
+    margin-right: 39rem;
+  }
+}
+@media(max-width: 40em){
+  .main-nav-list{
+    padding-right: 1.3rem;
+    font-size: 0.9rem;
+    padding-top: 1.3rem;
+    gap: 0.8rem;
+  }
+  body{
+    background-image: linear-gradient( to right bottom, rgba(54, 37, 22, 0.35), rgba(66, 38, 14, 0.35)), url("../proj1/hero.jpg");
+    /* background-size: var(50%); */
+     /* background-position: 100%;  */
+    }
+  h3{
+    font-size: 1rem;
+    padding-left: 1.3rem;
+    padding-top: 1.3rem;
+  }
+  h4{
+    font-size: 0.9rem;
+    padding-top: 0;
+  }
+  h1{
+    font-size: 1.4rem;
+  }
+  p{
+    font-size: 0.8rem;
+    color: rgb(12, 26, 3);
+  }
+  section{
+padding-left: 5rem;
+  }
+  .rorem{
+    margin-bottom: 3rem;
+  }
+  .buttom{
+    font-size: 0.8rem;
+    padding: 0.2rem 0 0.4rem 1rem; 
+    margin-right: 29rem;
+  }
+}
